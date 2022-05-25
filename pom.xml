@@ -13,7 +13,7 @@
 		<failOnMissingWebXml>false</failOnMissingWebXml>
 
 		<!-- 自定义版本信息：变量接收 -->
-		<spring.version>5.1.7.RELEASE</spring.version>
+		<spring.version>5.2.22.RELEASE</spring.version>
 	</properties>
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/javax.servlet/javax.servlet-api -->
